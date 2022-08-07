@@ -1,4 +1,3 @@
 ## ML--Series
-Machine Learning
-ML Implementation
-Tensors
+Machine Learning Tutorials & Projects
+
